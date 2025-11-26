@@ -2,10 +2,10 @@ import { FaWhatsapp } from 'react-icons/fa';
 import React from 'react';
 
 
-const WHATSAPP_NUMBER = "573332891313"; 
+const WHATSAPP_NUMBER = "573147005575"; 
 
 export const FloatingWhatsappButton = () => {
-  const whatsappLink = `https://wa.me/${WHATSAPP_NUMBER}?text=Hola%20Fibras%20Montoya,%20me%20gustaría%20solicitar%20una%20cotización.`;
+  const whatsappLink = `https://wa.me/${WHATSAPP_NUMBER}?text=Hola+Fibras+Montoya,+quisiera+solicitar+una+cotización+¿Me+pueden+brindar+más+información?`;
 
   return (
     <a 

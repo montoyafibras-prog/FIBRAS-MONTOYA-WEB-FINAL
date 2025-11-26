@@ -15,11 +15,11 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 flex-shrink-0 text-accent" /> 
-                <p>Dirección (Carrera 42 A # 81-18 manrique)</p>
+                <p>Dirección: Carrera 42 A # 81-18 Manrique</p>
               </div>
               <div className="flex items-start gap-3">
                 <Phone className="w-5 h-5 flex-shrink-0 text-accent" /> 
-                <p>Teléfono: 3147005575-3207169762-3017159341</p>
+                <p>Teléfono: 3147005575 - 3207169762    3017159341</p>
               </div>
               <div className="flex items-start gap-3">
                 <Mail className="w-5 h-5 flex-shrink-0 text-accent" /> 

@@ -14,7 +14,7 @@ const products = [
   },
   {
     icon: Trash2,
-    title: "Chuts de Basura",
+    title: "Shut de Basura",
     description: "Sistemas de recolección eficientes para edificios y complejos residenciales.",
   },
   {

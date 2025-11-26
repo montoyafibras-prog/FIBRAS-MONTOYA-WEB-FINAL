@@ -1,6 +1,6 @@
 import useEmblaCarousel from 'embla-carousel-react'
 import Autoplay from 'embla-carousel-autoplay'
-import { ChevronLeft, ChevronRight } from 'lucide-react'; // Importación de íconos
+import { ChevronLeft, ChevronRight } from 'lucide-react'; 
 
 // --- 1. Definición de Imágenes ---
 const images = [
